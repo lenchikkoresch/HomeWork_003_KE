@@ -10,3 +10,4 @@ public class SexException extends Exception {
         System.out.println();
     }
 }
+
